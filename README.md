@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**ShahidYousuf/ShahidYousuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **ShahidYousuf**, currently working as ✨ _Senior Software Engineer_ ✨ at ✨ _Signeasy_ ✨. I hope to bring better experineces to people through my work.
 
 What am I currently upto:
 
