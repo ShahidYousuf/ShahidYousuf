@@ -4,7 +4,14 @@ I am **ShahidYousuf**, currently working as ✨ _Senior Software Engineer_ ✨ a
 
 What am I currently upto:
 
-- 🔭 I’m currently working on enabling worldwide paperless signing experince at Signeasy through our web and mobile apps.
-- 🌱 I’m currently developing projects in C++, C# and the .NET ecosystem.
-- 💬 Ask me about Python, C++, C# and in general Web API's backend.
-- ⚡ Fun fact: Love to code and play cricket.
+- 🔭 I’m currently working on enabling worldwide paperless contract workflow experinces at Signeasy through our web and mobile apps.
+- 🌱 I use Python, REST APIs, Databases on daily basis and Golang and Rust frequently as well for various kinds of projects
+- 💬 I love to play Cricket, both bat and bowl, and like to drive cars.
+ 
+What websites I have built?
+   
+- https://topleading.com
+- https://shahidyousuf.com
+- https://webdistro.com
+   
+**For any projects, volunteer/non-volunteer, and contribution work, please get in touch with me.**
