@@ -7,7 +7,13 @@ What am I currently upto:
 - 🔭 I’m currently working on enabling worldwide paperless contract workflow experinces at Signeasy through our web and mobile apps.
 - 🌱 I use Python, REST APIs, Databases on daily basis and Golang and Rust frequently as well for various kinds of projects
 - 💬 Besides work, I love to play Cricket, enjoy both batting and bowling, and I like to drive cars (love SUVs).
- 
+
+Programming Languages:
+
+- Python
+- Java
+- Golang
+  
 What websites I have built?
    
 - https://topleading.net
