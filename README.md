@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-I am **ShahidYousuf**, currently working as ✨ _Senior Software Engineer_ ✨ at ✨ _Signeasy_ ✨. I hope to bring better experineces to people through my work.
-
-What am I currently upto:
-
-- 🔭 I’m currently working on enabling worldwide paperless contract workflow experinces at Signeasy through our web and mobile apps.
-- 🌱 I use Python, REST APIs, Databases on daily basis and Golang and Rust frequently as well for various kinds of projects
-- 💬 Besides work, I love to play Cricket, enjoy both batting and bowling, and I like to drive cars (love SUVs).
-
-Programming Languages:
-
-- Python
-- Java
-- Golang
-  
+- Name: Shahid Yousuf
+- Work: Senior Software Engineer at Signeasy
+- Programming Languages: Python, Java, Golang
+- Hobbies: Cricket, Cars, Driving, Computers
+    
 What websites I have built?
    
 - https://topleading.net
