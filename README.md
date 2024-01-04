@@ -8,7 +8,7 @@
 
 ##### Interests, Methodologies, Principles and other facts
 
-- Design Patterns, Architecture
+- Algorithms, Design Patterns, Architecture
 - Scalability, Stability
 - Incremental Engineering
 - Customer centricity and empathy
