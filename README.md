@@ -3,7 +3,7 @@
 - Name: Shahid Yousuf
 - Work: Senior Software Engineer at Signeasy
 - Programming Languages: Python, Java, Golang
-- Other Languages Used: Rust, C++, C#, Elixir
+- Other Languages Used (Outside work): Rust
 - Hobbies: Cricket, Cars, Driving, Computers
 
 ##### Interests, Methodologies, Principles and other facts
