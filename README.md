@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Name: Shahid Yousuf
-- Work: Senior Software Engineer at Signeasy
+- Work: Senior Software Engineer at Axelerant, previously (Signeasy, TrialX)
 - Programming Languages: Python, Java, Golang, Rust
 - Hobbies: Cricket, Cars, Driving, Computers
 
