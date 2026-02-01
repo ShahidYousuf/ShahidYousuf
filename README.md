@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shahid Yousuf
 
-**Senior Software Engineer | Backend Architect | Distributed Systems Enthusiast**
+**Senior Software Engineer | Backend Architect | Distributed Systems Enthusiast** ☕ *Java Lover*
 
 I'm a Senior Software Engineer with extensive experience building production-grade backend systems and distributed applications. I specialize in distributed systems architecture, observability solutions, and domain-driven design, with a strong focus on scalability, performance, and maintainability.
 
@@ -31,11 +31,11 @@ My work involves architecting and implementing backend systems, API design, and 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ☕
 
 - **Python:** FastAPI, Django, Flask, data processing, AI/ML applications
 - **Go:** Gin, Fiber, concurrent programming, microservices
-- **Java:** Spring Boot 4, Dropwizard, Micronaut, Java 25 (Virtual Threads)
+- **Java:** Spring Boot 4, Dropwizard, Micronaut, Java 25 (Virtual Threads) | JPA, Maven/Gradle, JUnit, Mockito, Lombok
 
 ### Databases & Storage
 
@@ -73,10 +73,13 @@ My work involves architecting and implementing backend systems, API design, and 
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - **CI/CD:** GitHub Actions
 - **API Documentation:** OpenAPI/Swagger, REST APIs
 - **Testing:** pytest (Python), JUnit (Java), Go testing
+- **Code Quality:** SonarQube, Black/Flake8/Ruff (Python), gofmt/golint (Go), Checkstyle (Java)
+- **Version Control:** Git, GitHub
 
 ---
 
@@ -88,6 +91,8 @@ My work involves architecting and implementing backend systems, API design, and 
 - 🌐 **Distributed Systems:** Scalability patterns, consistency models, fault tolerance, system design
 - 🤖 **AI Applications:** Building AI-powered backend systems, LLM integration, agentic AI
 - 📐 **Software Architecture:** Hexagonal architecture, clean architecture, design patterns, SOLID principles
+- 🏛️ **Architecture Patterns:** Microservices, Modular Monolith, API Gateway Pattern
+- 🎨 **Design Patterns:** Repository, Factory, Strategy, Observer, Decorator, and other common patterns
 
 ---
 
@@ -98,7 +103,7 @@ My work involves architecting and implementing backend systems, API design, and 
 - 🧩 **Modular Monoliths:** Designing and implementing modular monolith architectures
 - 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
 - 🤖 **AI Applications:** Building AI-powered backend systems, LLM integration, and agentic AI applications
-- 📚 **Continuous Learning:** Staying current with emerging patterns, technologies, and best practices
+- 📚 **Continuous Learning:** Staying current with emerging patterns, technologies, and best practices through reading, building, and problem-solving
 
 ---
 
