@@ -2,9 +2,7 @@
 
 **Senior Software Engineer | Backend Architect | Distributed Systems Enthusiast** ☕ *Java Lover*
 
-I'm a Senior Software Engineer with extensive experience building production-grade backend systems and distributed applications. I specialize in distributed systems architecture, observability solutions, and domain-driven design, with a strong focus on scalability, performance, and maintainability.
-
-I design and implement robust backend systems, modular monoliths, and comprehensive observability solutions. My approach combines architectural thinking with hands-on implementation, always prioritizing clean code, solid design patterns, and continuous learning.
+I'm a Senior Software Engineer with experience building production-grade backend systems and distributed applications. I specialize in modular monoliths, distributed systems architecture, observability solutions, and domain-driven design, with a strong focus on scalability, performance, and maintainability.
 
 Based in **Srinagar, Kashmir** 🇮🇳 | Passionate about building scalable systems and exploring new technologies
 
@@ -12,8 +10,8 @@ Based in **Srinagar, Kashmir** 🇮🇳 | Passionate about building scalable sys
 
 ## 💼 Professional Experience
 
-**Senior Software Engineer** at a leading technology company  
-*Previously worked at innovative startups*
+**Senior Software Engineer** at Axelerant
+*Previously worked at Signeasy, TrialX*
 
 I focus on building scalable backend systems and distributed applications:
 - 🏗️ Distributed systems architecture and RESTful API design
@@ -104,16 +102,6 @@ My work involves architecting and implementing backend systems, API design, and 
 - 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
 - 🤖 **AI Applications:** Building AI-powered backend systems, LLM integration, and agentic AI applications
 - 📚 **Continuous Learning:** Staying current with emerging patterns, technologies, and best practices through reading, building, and problem-solving
-
----
-
-## 📊 Experience Highlights
-
-- Extensive experience building production-grade backend systems
-- Multiple repositories demonstrating continuous learning and diverse projects
-- Expertise across multiple languages: Python, Go, Java
-- Architecture patterns: Modular Monoliths, Microservices, Domain-Driven Design, Hexagonal Architecture
-- Production systems across various domains: E-commerce, Observability, AI Applications
 
 ---
 
