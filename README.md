@@ -25,7 +25,7 @@ My work involves architecting and implementing backend systems, API design, and 
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Stack
 
 ### Languages & Frameworks
 
@@ -37,7 +37,50 @@ My work involves architecting and implementing backend systems, API design, and 
 - **Go:** Gin, Fiber, concurrent programming, microservices
 - **Java:** Spring Boot 4, Dropwizard, Micronaut, Java 25 (Virtual Threads)
 
-### Core Competencies
+### Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- **Relational:** PostgreSQL, MySQL, SQLite
+- **Caching:** Redis
+- **Message Queues:** Kafka, Redis Pub/Sub, AWS SQS/SNS
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+- **Cloud Platform:** AWS (ECS, EKS)
+- **Containerization:** Docker, Docker Compose, Kubernetes
+- **Infrastructure as Code:** Terraform
+
+### Observability & Monitoring
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+- **Monitoring:** Grafana, Prometheus, SigNoz, Sentry
+- **Tracing:** OpenTelemetry, distributed tracing
+- **Logging:** Structured logging, log aggregation
+
+### Development Tools
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+
+- **CI/CD:** GitHub Actions
+- **API Documentation:** OpenAPI/Swagger, REST APIs
+- **Testing:** pytest (Python), JUnit (Java), Go testing
+
+---
+
+## 🎯 Core Competencies
 
 - 🏗️ **Backend Engineering:** RESTful APIs, microservices, modular monoliths, event-driven architectures
 - 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
