@@ -10,17 +10,10 @@ Building production-grade backend systems and distributed applications — from 
 
 <br>
 
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-17201A?style=for-the-badge)
-![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AI](https://img.shields.io/badge/AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidyousuf/)
-[![Portfolio](https://img.shields.io/badge/shahidyousuf.com-17201A?style=flat-square&logo=googlechrome&logoColor=white)](https://shahidyousuf.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShahidYousuf)
-[![Email](https://img.shields.io/badge/shahidyousuf%40gmail.com-c4622c?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf@gmail.com)
+<a href="https://github.com/ShahidYousuf" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.simpleicons.org/github" height="40" width="40" alt="GitHub"></picture></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shahidyousuf/" title="LinkedIn"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://shahidyousuf.com" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white"><img src="https://cdn.simpleicons.org/googlechrome" height="40" width="40" alt="Portfolio"></picture></a>&nbsp;&nbsp;
+<a href="mailto:shahidyousuf@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white"><img src="https://cdn.simpleicons.org/gmail" height="40" width="40" alt="Email"></picture></a>
 
 </div>
 
@@ -75,11 +68,7 @@ An AI-powered CLI that investigates production incidents. It correlates evidence
 
 <div align="center">
 
-![Ed Tech](https://img.shields.io/badge/Ed_Tech-17201A?style=flat-square)
-![Healthcare & Clinical Trials](https://img.shields.io/badge/Healthcare_%26_Clinical_Trials-17201A?style=flat-square)
-![E-Signing & Contract Workflow](https://img.shields.io/badge/E--Signing_%26_Contract_Workflow-17201A?style=flat-square)
-![Online Gaming](https://img.shields.io/badge/Online_Gaming-17201A?style=flat-square)
-![AWS & Cyber Security](https://img.shields.io/badge/AWS_%26_Cyber_Security-c4622c?style=flat-square)
+**Ed Tech** &nbsp;·&nbsp; **Healthcare & Clinical Trials** &nbsp;·&nbsp; **E-Signing & Contract Workflow** &nbsp;·&nbsp; **Online Gaming** &nbsp;·&nbsp; **AWS & Cyber Security**
 
 </div>
 
@@ -88,67 +77,59 @@ An AI-powered CLI that investigates production incidents. It correlates evidence
 ## 🧰 Core Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 <br>
-Material 3 · Hilt
+<img src="https://cdn.simpleicons.org/python" height="36" width="36" alt="Python" title="Python">&nbsp;
+<img src="https://cdn.simpleicons.org/go" height="36" width="36" alt="Go" title="Go">&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openjdk/white"><img src="https://cdn.simpleicons.org/openjdk" height="36" width="36" alt="Java" title="Java"></picture>
 
 **Backend Frameworks**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 <br>
-Gin · Fiber · Dropwizard · Micronaut · Java 25 (Virtual Threads)
+<img src="https://cdn.simpleicons.org/fastapi" height="36" width="36" alt="FastAPI" title="FastAPI">&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/white"><img src="https://cdn.simpleicons.org/django" height="36" width="36" alt="Django" title="Django"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/white"><img src="https://cdn.simpleicons.org/flask" height="36" width="36" alt="Flask" title="Flask"></picture>&nbsp;
+<img src="https://cdn.simpleicons.org/springboot" height="36" width="36" alt="Spring Boot" title="Spring Boot">
+<br>
+<sub>Gin · Fiber · Dropwizard · Micronaut · Java 25 (Virtual Threads)</sub>
 
 **Databases & Messaging**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 <br>
-AWS SQS · AWS SNS
+<img src="https://cdn.simpleicons.org/postgresql" height="36" width="36" alt="PostgreSQL" title="PostgreSQL">&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" height="36" width="36" alt="MySQL" title="MySQL">&nbsp;
+<img src="https://cdn.simpleicons.org/redis" height="36" width="36" alt="Redis" title="Redis">&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/white"><img src="https://cdn.simpleicons.org/sqlite" height="36" width="36" alt="SQLite" title="SQLite"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white"><img src="https://cdn.simpleicons.org/apachekafka" height="36" width="36" alt="Kafka" title="Kafka"></picture>
+<br>
+<sub>AWS SQS · AWS SNS</sub>
 
 **Cloud, DevOps & Security**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 <br>
-AWS Organizations · IAM · Security Hub · GuardDuty · IAM Access Analyzer · Inspector · ECS · EKS
+<img src="https://cdn.simpleicons.org/docker" height="36" width="36" alt="Docker" title="Docker">&nbsp;
+<img src="https://cdn.simpleicons.org/kubernetes" height="36" width="36" alt="Kubernetes" title="Kubernetes">&nbsp;
+<img src="https://cdn.simpleicons.org/terraform" height="36" width="36" alt="Terraform" title="Terraform">&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubactions/white"><img src="https://cdn.simpleicons.org/githubactions" height="36" width="36" alt="GitHub Actions" title="GitHub Actions"></picture>
+<br>
+<sub><b>AWS:</b> Organizations · IAM · Security Hub · GuardDuty · IAM Access Analyzer · Inspector · ECS · EKS</sub>
 
 **AI**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/white"><img src="https://cdn.simpleicons.org/anthropic" height="36" width="36" alt="Claude" title="Claude / Anthropic"></picture>
 
 **Observability**
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 <br>
-SigNoz
+<img src="https://cdn.simpleicons.org/grafana" height="36" width="36" alt="Grafana" title="Grafana">&nbsp;
+<img src="https://cdn.simpleicons.org/prometheus" height="36" width="36" alt="Prometheus" title="Prometheus">&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opentelemetry/white"><img src="https://cdn.simpleicons.org/opentelemetry" height="36" width="36" alt="OpenTelemetry" title="OpenTelemetry"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sentry/white"><img src="https://cdn.simpleicons.org/sentry" height="36" width="36" alt="Sentry" title="Sentry"></picture>
+<br>
+<sub>SigNoz</sub>
 
 **Testing, Quality & Build**
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 <br>
-pytest · Go testing · SonarQube · Black/Flake8/Ruff · gofmt/golint · Checkstyle · JPA · Mockito · Lombok
+<img src="https://cdn.simpleicons.org/junit5" height="36" width="36" alt="JUnit" title="JUnit 5">&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gradle/white"><img src="https://cdn.simpleicons.org/gradle" height="36" width="36" alt="Gradle" title="Gradle"></picture>&nbsp;
+<img src="https://cdn.simpleicons.org/apachemaven" height="36" width="36" alt="Maven" title="Maven">
+<br>
+<sub>pytest · Go testing · SonarQube · Black/Flake8/Ruff · gofmt/golint · Checkstyle · JPA · Mockito · Lombok</sub>
 
 <br>
 
@@ -156,10 +137,10 @@ pytest · Go testing · SonarQube · Black/Flake8/Ruff · gofmt/golint · Checks
 
 ### 💬 Let's talk
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidyousuf/)
-[![Portfolio](https://img.shields.io/badge/shahidyousuf.com-17201A?style=flat-square&logo=googlechrome&logoColor=white)](https://shahidyousuf.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShahidYousuf)
-[![Email](https://img.shields.io/badge/shahidyousuf%40gmail.com-c4622c?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf@gmail.com)
+<a href="https://github.com/ShahidYousuf" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.simpleicons.org/github" height="40" width="40" alt="GitHub"></picture></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shahidyousuf/" title="LinkedIn"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://shahidyousuf.com" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white"><img src="https://cdn.simpleicons.org/googlechrome" height="40" width="40" alt="Portfolio"></picture></a>&nbsp;&nbsp;
+<a href="mailto:shahidyousuf@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white"><img src="https://cdn.simpleicons.org/gmail" height="40" width="40" alt="Email"></picture></a>
 
 <sub>Last updated: August 2026</sub>
 
