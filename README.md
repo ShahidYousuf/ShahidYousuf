@@ -23,6 +23,51 @@ My work involves architecting and implementing backend systems, API design, and 
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📰 [RajyaPrep](https://rajyaprep.com)
+
+A new daily current-affairs paper for India's competitive exams. 30 cited MCQs, AI-engineered, human-verified. Built for UPSC, KAS, SSC, Banking, Railways, and State PSC aspirants, with native iOS and Android clients alongside the web app.
+
+![Status](https://img.shields.io/badge/status-building-orange?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎙️ [Zuni](https://ai.shahidyousuf.com)
+
+My personal AI voice assistant for iOS. Full-duplex and hands-free, with real tool access to my calendar, email, and reminders. Streams speech-to-text, reasoning, and speech synthesis end to end instead of gluing batch calls together.
+
+![Status](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛰️ awktrack
+
+An AI-powered CLI that investigates production incidents. It correlates evidence across Sentry, CloudWatch, Kubernetes, GitHub, and PagerDuty to build a timeline, test hypotheses, and surface the likely root cause instead of just summarizing telemetry.
+
+![Status](https://img.shields.io/badge/status-early--stage-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Typer](https://img.shields.io/badge/CLI-Typer-4B8BBE?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Technical Stack
 
 ### Languages & Frameworks
@@ -114,4 +159,4 @@ My work involves architecting and implementing backend systems, API design, and 
 
 ---
 
-*Last updated: February 2026*
+*Last updated: August 2026*
