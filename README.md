@@ -1,27 +1,43 @@
-# 👋 Hi, I'm Shahid Yousuf
+<div align="center">
 
-**Senior Software Engineer | Backend Architect | Distributed Systems Enthusiast** ☕ *Java Lover*
+# Shahid Yousuf
 
-I'm a Senior Software Engineer with experience building production-grade backend systems and distributed applications. I specialize in modular monoliths, distributed systems architecture, observability solutions, and domain-driven design, with a strong focus on scalability, performance, and maintainability.
+### Senior Software Engineer · Distributed Systems · AWS Cloud · DevOps · AI
 
-Based in **Srinagar, Kashmir** 🇮🇳 | Passionate about building scalable systems and exploring new technologies
+📍 Srinagar, Kashmir, India 🇮🇳 &nbsp;·&nbsp; ☕ Java lover
 
----
+Building production-grade backend systems and distributed applications — from multi-account AWS governance to agentic AI products.
 
-## 💼 Professional Experience
+<br>
 
-**Senior Software Engineer** at Axelerant
-*Previously worked at Signeasy, TrialX*
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-17201A?style=for-the-badge)
+![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AI](https://img.shields.io/badge/AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-I focus on building scalable backend systems and distributed applications:
-- 🏗️ Distributed systems architecture and RESTful API design
-- 🧩 Modular monoliths and domain-driven design
-- 📊 System design and architecture for high-traffic applications
-- 🔍 Observability and monitoring solutions
+<br>
 
-My work involves architecting and implementing backend systems, API design, and working with diverse technology stacks to deliver reliable, scalable solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidyousuf/)
+[![Portfolio](https://img.shields.io/badge/shahidyousuf.com-17201A?style=flat-square&logo=googlechrome&logoColor=white)](https://shahidyousuf.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShahidYousuf)
+[![Email](https://img.shields.io/badge/shahidyousuf%40gmail.com-c4622c?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf@gmail.com)
 
----
+</div>
+
+<br>
+
+## 💼 Experience
+
+<table>
+<tr><td><b>Senior Software Engineer</b></td><td>Axelerant</td><td align="right">May 2024 – Present</td></tr>
+<tr><td>Senior Software Engineer</td><td>Signeasy</td><td align="right">Feb 2022 – Apr 2024</td></tr>
+<tr><td>Software Engineer</td><td>Applied Informatics / TrialX</td><td align="right">Aug 2018 – Feb 2022</td></tr>
+<tr><td>Founder / Software Developer</td><td>Queboid Technologies</td><td align="right">Jan 2016 – Jul 2018</td></tr>
+</table>
+
+Architecting and implementing backend systems, API design, and multi-account AWS governance across diverse technology stacks — from modular monoliths to distributed cloud infrastructure.
+
+<br>
 
 ## 🚀 Featured Projects
 
@@ -66,97 +82,102 @@ An AI-powered CLI that investigates production incidents. It correlates evidence
 </tr>
 </table>
 
----
+<br>
 
-## 🛠️ Technical Stack
+## 🎯 Focus Areas
 
-### Languages & Frameworks
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ☕
+### 🌐 Distributed Systems
 
-- **Python:** FastAPI, Django, Flask, data processing, AI/ML applications
-- **Go:** Gin, Fiber, concurrent programming, microservices
-- **Java:** Spring Boot 4, Dropwizard, Micronaut, Java 25 (Virtual Threads) | JPA, Maven/Gradle, JUnit, Mockito, Lombok
+- Modular monoliths & domain-driven design (bounded contexts, aggregate design)
+- RESTful & event-driven API design
+- Scalability patterns, consistency models, fault tolerance
+- Hexagonal / clean architecture, SOLID principles
+- Repository, Factory, Strategy, Observer, Decorator patterns
 
-### Databases & Storage
+</td>
+<td width="50%" valign="top">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### ☁️ AWS Cloud & Governance
 
-- **Relational:** PostgreSQL, MySQL, SQLite
-- **Caching:** Redis
-- **Message Queues:** Kafka, Redis Pub/Sub, AWS SQS/SNS
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-### Cloud & Infrastructure
+- Multi-account AWS Organizations governance: landing zone rollout across 20+ accounts, zero-incident enrollment
+- Service Control Policies & Resource Control Policies at org scale
+- Cloud security posture management — Security Hub, GuardDuty, IAM Access Analyzer, Inspector
+- IAM hygiene & access review at scale (500+ finding triage, least-privilege remediation)
+- Cloud migration & decommissioning (GCP → AWS)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- **Cloud Platform:** AWS (ECS, EKS)
-- **Containerization:** Docker, Docker Compose, Kubernetes
-- **Infrastructure as Code:** Terraform
+### ⚙️ DevOps & Observability
 
-### Observability & Monitoring
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+- CI/CD pipelines (GitHub Actions)
+- Infrastructure as Code (Terraform)
+- OpenTelemetry, distributed tracing, structured logging
+- Grafana Cloud, Prometheus, SigNoz, Sentry
 
-- **Monitoring:** Grafana, Prometheus, SigNoz, Sentry
-- **Tracing:** OpenTelemetry, distributed tracing
-- **Logging:** Structured logging, log aggregation
+</td>
+<td width="50%" valign="top">
 
-### Development Tools
+### 🤖 AI & Agentic Systems
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **CI/CD:** GitHub Actions
-- **API Documentation:** OpenAPI/Swagger, REST APIs
-- **Testing:** pytest (Python), JUnit (Java), Go testing
-- **Code Quality:** SonarQube, Black/Flake8/Ruff (Python), gofmt/golint (Go), Checkstyle (Java)
-- **Version Control:** Git, GitHub
+- LLM integration & agentic tool-calling systems
+- Production AI voice assistants — see Zuni above
+- AI-powered developer tooling — see awktrack above
+- Prompt engineering, context and memory design
 
----
+</td>
+</tr>
+</table>
 
-## 🎯 Core Competencies
+<br>
 
-- 🏗️ **Backend Engineering:** RESTful APIs, microservices, modular monoliths, event-driven architectures
-- 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
-- 🔍 **Observability:** OpenTelemetry, distributed tracing, structured logging, metrics collection, Grafana Cloud integration
-- 🌐 **Distributed Systems:** Scalability patterns, consistency models, fault tolerance, system design
-- 🤖 **AI Applications:** Building AI-powered backend systems, LLM integration, agentic AI
-- 📐 **Software Architecture:** Hexagonal architecture, clean architecture, design patterns, SOLID principles
-- 🏛️ **Architecture Patterns:** Microservices, Modular Monolith, API Gateway Pattern
-- 🎨 **Design Patterns:** Repository, Factory, Strategy, Observer, Decorator, and other common patterns
+## 🧰 Core Stack
 
----
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<br>
+FastAPI · Django · Flask · Gin · Fiber · Spring Boot 4 · Dropwizard · Micronaut · Java 25 (Virtual Threads)
 
-## 🌱 Current Focus
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<br>
+Kafka · AWS SQS/SNS
 
-- 🌐 **Distributed Systems:** Scalability patterns, consistency models, event-driven architectures, system design
-- 🔍 **Observability:** Production-ready observability solutions with OpenTelemetry, distributed tracing, and comprehensive metrics collection
-- 🧩 **Modular Monoliths:** Designing and implementing modular monolith architectures
-- 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
-- 🤖 **AI Applications:** Building AI-powered backend systems, LLM integration, and agentic AI applications
-- 📚 **Continuous Learning:** Staying current with emerging patterns, technologies, and best practices through reading, building, and problem-solving
+**Quality & Tooling**
+pytest (Python) · JUnit (Java) · Go testing · SonarQube · Black/Flake8/Ruff · gofmt/golint · Checkstyle · JPA · Maven/Gradle · Mockito · Lombok
 
----
+<br>
 
-## 💬 Connect
+<div align="center">
 
-- 💼 **LinkedIn:** [shahidyousuf](https://www.linkedin.com/in/shahidyousuf/)
-- 🌐 **Portfolio:** [shahidyousuf.com](https://shahidyousuf.com)
-- 📧 **Email:** shahidyousuf@gmail.com
-- 🐙 **GitHub:** [@ShahidYousuf](https://github.com/ShahidYousuf)
+### 💬 Let's talk
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidyousuf/)
+[![Portfolio](https://img.shields.io/badge/shahidyousuf.com-17201A?style=flat-square&logo=googlechrome&logoColor=white)](https://shahidyousuf.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShahidYousuf)
+[![Email](https://img.shields.io/badge/shahidyousuf%40gmail.com-c4622c?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf@gmail.com)
 
-*Last updated: August 2026*
+<sub>Last updated: August 2026</sub>
+
+</div>
