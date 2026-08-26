@@ -22,7 +22,8 @@ Building software solutions since 2018 — from backend systems and distributed 
 - 🏗️ **Backend Engineering:** RESTful APIs, event-driven architectures, microservices and modular monoliths — production systems at Axelerant, RajyaPrep, and Zuni
 - 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
 - 🔍 **Observability:** OpenTelemetry, distributed tracing, structured logging, metrics collection — production monitoring across FastAPI and Spring Boot services
-- 🌐 **Distributed Systems:** Scalability patterns, consistency models, fault tolerance — from multi-service backends to 20+-account AWS Organizations governance
+- 🌐 **Distributed Systems:** Scalability patterns, consistency models, fault tolerance, system design
+- ☁️ **AWS Cloud & Governance:** Multi-account AWS Organizations governance (20+ accounts, zero-incident rollout), Service Control Policies & Resource Control Policies, cloud security posture management (Security Hub, GuardDuty, IAM Access Analyzer), cloud migration & decommissioning
 - 🤖 **AI Applications:** Production agentic systems — a full-duplex AI voice assistant (Zuni), an AI-powered incident-investigation CLI (awktrack), and AI-engineered content pipelines (RajyaPrep)
 - 📐 **Software Architecture:** Hexagonal and clean architecture, SOLID principles, Microservices / Modular Monolith / API Gateway patterns
 - 🎨 **Design Patterns:** Repository, Factory, Strategy, Observer, Decorator, and other common patterns
