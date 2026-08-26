@@ -61,7 +61,7 @@ My personal AI voice assistant for iOS. Full-duplex and hands-free, with real to
 </td>
 <td width="33%" valign="top">
 
-### 🛰️ awktrack
+### 🛰️ [awktrack](https://awktrack.com)
 
 An AI-powered CLI that investigates production incidents. It correlates evidence across Sentry, CloudWatch, Kubernetes, GitHub, and PagerDuty to build a timeline, test hypotheses, and surface the likely root cause instead of just summarizing telemetry.
 
