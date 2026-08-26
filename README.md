@@ -1,23 +1,30 @@
-<div align="center">
+# 👋 Hi, I'm Shahid Yousuf
 
-# Shahid Yousuf
+**Senior Software Engineer | Backend Architect | Distributed Systems Enthusiast** ☕ *Java Lover*
 
-### Senior Software Engineer · Distributed Systems · AWS Cloud · DevOps · AI
+I'm a Senior Software Engineer with experience building production-grade backend systems and distributed applications. I specialize in modular monoliths, distributed systems architecture, observability solutions, and domain-driven design, with a strong focus on scalability, performance, and maintainability.
 
-📍 Srinagar, Kashmir, India 🇮🇳 &nbsp;·&nbsp; ☕ Java lover
+Based in **Srinagar, Kashmir** 🇮🇳 | Passionate about building scalable systems and exploring new technologies
 
-Building production-grade backend systems and distributed applications — from multi-account AWS governance to agentic AI products.
+---
 
-<br>
+## 💼 Professional Experience
 
-<a href="https://github.com/ShahidYousuf" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.simpleicons.org/github" height="40" width="40" alt="GitHub"></picture></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shahidyousuf/" title="LinkedIn"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://shahidyousuf.com" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white"><img src="https://cdn.simpleicons.org/googlechrome" height="40" width="40" alt="Portfolio"></picture></a>&nbsp;&nbsp;
-<a href="mailto:shahidyousuf@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white"><img src="https://cdn.simpleicons.org/gmail" height="40" width="40" alt="Email"></picture></a>
+**Senior Software Engineer** at Axelerant
+*Previously worked at Signeasy, TrialX*
 
-</div>
+I focus on building scalable backend systems and distributed applications:
+- 🏗️ Distributed systems architecture and RESTful API design
+- 🧩 Modular monoliths and domain-driven design
+- 📊 System design and architecture for high-traffic applications
+- 🔍 Observability and monitoring solutions
+- ☁️ Multi-account AWS Organizations governance — landing zone rollout across 20+ accounts, zero-incident enrollment
+- 🔐 Cloud security posture management (Security Hub, GuardDuty, IAM Access Analyzer, Inspector) and IAM hygiene at scale
+- 🔄 Cloud migration & decommissioning (GCP → AWS)
 
-<br>
+My work involves architecting and implementing backend systems, API design, and working with diverse technology stacks to deliver reliable, scalable solutions.
+
+---
 
 ## 🚀 Featured Projects
 
@@ -62,86 +69,97 @@ An AI-powered CLI that investigates production incidents. It correlates evidence
 </tr>
 </table>
 
-<br>
+---
 
-## 🏢 Industries
+## 🛠️ Technical Stack
 
-<div align="center">
+### Languages & Frameworks
 
-**Ed Tech** &nbsp;·&nbsp; **Healthcare & Clinical Trials** &nbsp;·&nbsp; **E-Signing & Contract Workflow** &nbsp;·&nbsp; **Online Gaming** &nbsp;·&nbsp; **AWS & Cyber Security**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ☕
 
-</div>
+- **Python:** FastAPI, Django, Flask, data processing, AI/ML applications
+- **Go:** Gin, Fiber, concurrent programming, microservices
+- **Java:** Spring Boot 4, Dropwizard, Micronaut, Java 25 (Virtual Threads) | JPA, Maven/Gradle, JUnit, Mockito, Lombok
 
-<br>
+### Databases & Storage
 
-## 🧰 Core Stack
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Languages**
-<br>
-<img src="https://cdn.simpleicons.org/python" height="36" width="36" alt="Python" title="Python">&nbsp;
-<img src="https://cdn.simpleicons.org/go" height="36" width="36" alt="Go" title="Go">&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openjdk/white"><img src="https://cdn.simpleicons.org/openjdk" height="36" width="36" alt="Java" title="Java"></picture>
+- **Relational:** PostgreSQL, MySQL, SQLite
+- **Caching:** Redis
+- **Message Queues:** Kafka, Redis Pub/Sub, AWS SQS/SNS
 
-**Backend Frameworks**
-<br>
-<img src="https://cdn.simpleicons.org/fastapi" height="36" width="36" alt="FastAPI" title="FastAPI">&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/white"><img src="https://cdn.simpleicons.org/django" height="36" width="36" alt="Django" title="Django"></picture>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/white"><img src="https://cdn.simpleicons.org/flask" height="36" width="36" alt="Flask" title="Flask"></picture>&nbsp;
-<img src="https://cdn.simpleicons.org/springboot" height="36" width="36" alt="Spring Boot" title="Spring Boot">
-<br>
-<sub>Gin · Fiber · Dropwizard · Micronaut · Java 25 (Virtual Threads)</sub>
+### Cloud & Infrastructure
 
-**Databases & Messaging**
-<br>
-<img src="https://cdn.simpleicons.org/postgresql" height="36" width="36" alt="PostgreSQL" title="PostgreSQL">&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" height="36" width="36" alt="MySQL" title="MySQL">&nbsp;
-<img src="https://cdn.simpleicons.org/redis" height="36" width="36" alt="Redis" title="Redis">&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/white"><img src="https://cdn.simpleicons.org/sqlite" height="36" width="36" alt="SQLite" title="SQLite"></picture>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white"><img src="https://cdn.simpleicons.org/apachekafka" height="36" width="36" alt="Kafka" title="Kafka"></picture>
-<br>
-<sub>AWS SQS · AWS SNS</sub>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-**Cloud, DevOps & Security**
-<br>
-<img src="https://cdn.simpleicons.org/docker" height="36" width="36" alt="Docker" title="Docker">&nbsp;
-<img src="https://cdn.simpleicons.org/kubernetes" height="36" width="36" alt="Kubernetes" title="Kubernetes">&nbsp;
-<img src="https://cdn.simpleicons.org/terraform" height="36" width="36" alt="Terraform" title="Terraform">&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubactions/white"><img src="https://cdn.simpleicons.org/githubactions" height="36" width="36" alt="GitHub Actions" title="GitHub Actions"></picture>
-<br>
-<sub><b>AWS:</b> Organizations · IAM · Security Hub · GuardDuty · IAM Access Analyzer · Inspector · ECS · EKS</sub>
+- **Cloud Platform:** AWS (ECS, EKS)
+- **Containerization:** Docker, Docker Compose, Kubernetes
+- **Infrastructure as Code:** Terraform
 
-**AI**
-<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/anthropic/white"><img src="https://cdn.simpleicons.org/anthropic" height="36" width="36" alt="Claude" title="Claude / Anthropic"></picture>
+### Observability & Monitoring
 
-**Observability**
-<br>
-<img src="https://cdn.simpleicons.org/grafana" height="36" width="36" alt="Grafana" title="Grafana">&nbsp;
-<img src="https://cdn.simpleicons.org/prometheus" height="36" width="36" alt="Prometheus" title="Prometheus">&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opentelemetry/white"><img src="https://cdn.simpleicons.org/opentelemetry" height="36" width="36" alt="OpenTelemetry" title="OpenTelemetry"></picture>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sentry/white"><img src="https://cdn.simpleicons.org/sentry" height="36" width="36" alt="Sentry" title="Sentry"></picture>
-<br>
-<sub>SigNoz</sub>
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
-**Testing, Quality & Build**
-<br>
-<img src="https://cdn.simpleicons.org/junit5" height="36" width="36" alt="JUnit" title="JUnit 5">&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gradle/white"><img src="https://cdn.simpleicons.org/gradle" height="36" width="36" alt="Gradle" title="Gradle"></picture>&nbsp;
-<img src="https://cdn.simpleicons.org/apachemaven" height="36" width="36" alt="Maven" title="Maven">
-<br>
-<sub>pytest · Go testing · SonarQube · Black/Flake8/Ruff · gofmt/golint · Checkstyle · JPA · Mockito · Lombok</sub>
+- **Monitoring:** Grafana, Prometheus, SigNoz, Sentry
+- **Tracing:** OpenTelemetry, distributed tracing
+- **Logging:** Structured logging, log aggregation
 
-<br>
+### Development Tools
 
-<div align="center">
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💬 Let's talk
+- **CI/CD:** GitHub Actions
+- **API Documentation:** OpenAPI/Swagger, REST APIs
+- **Testing:** pytest (Python), JUnit (Java), Go testing
+- **Code Quality:** SonarQube, Black/Flake8/Ruff (Python), gofmt/golint (Go), Checkstyle (Java)
+- **Version Control:** Git, GitHub
 
-<a href="https://github.com/ShahidYousuf" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.simpleicons.org/github" height="40" width="40" alt="GitHub"></picture></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shahidyousuf/" title="LinkedIn"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://shahidyousuf.com" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white"><img src="https://cdn.simpleicons.org/googlechrome" height="40" width="40" alt="Portfolio"></picture></a>&nbsp;&nbsp;
-<a href="mailto:shahidyousuf@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white"><img src="https://cdn.simpleicons.org/gmail" height="40" width="40" alt="Email"></picture></a>
+---
 
-<sub>Last updated: August 2026</sub>
+## 🎯 Core Competencies
 
-</div>
+- 🏗️ **Backend Engineering:** RESTful APIs, microservices, modular monoliths, event-driven architectures
+- 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
+- 🔍 **Observability:** OpenTelemetry, distributed tracing, structured logging, metrics collection, Grafana Cloud integration
+- 🌐 **Distributed Systems:** Scalability patterns, consistency models, fault tolerance, system design
+- 🤖 **AI Applications:** Building AI-powered backend systems, LLM integration, agentic AI
+- 📐 **Software Architecture:** Hexagonal architecture, clean architecture, design patterns, SOLID principles
+- 🏛️ **Architecture Patterns:** Microservices, Modular Monolith, API Gateway Pattern
+- 🎨 **Design Patterns:** Repository, Factory, Strategy, Observer, Decorator, and other common patterns
+
+---
+
+## 🌱 Current Focus
+
+- 🌐 **Distributed Systems:** Scalability patterns, consistency models, event-driven architectures, system design
+- 🔍 **Observability:** Production-ready observability solutions with OpenTelemetry, distributed tracing, and comprehensive metrics collection
+- 🧩 **Modular Monoliths:** Designing and implementing modular monolith architectures
+- 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
+- 🤖 **AI Applications:** Building AI-powered backend systems, LLM integration, and agentic AI applications
+- 📚 **Continuous Learning:** Staying current with emerging patterns, technologies, and best practices through reading, building, and problem-solving
+
+---
+
+## 💬 Connect
+
+- 💼 **LinkedIn:** [shahidyousuf](https://www.linkedin.com/in/shahidyousuf/)
+- 🌐 **Portfolio:** [shahidyousuf.com](https://shahidyousuf.com)
+- 📧 **Email:** shahidyousuf@gmail.com
+- 🐙 **GitHub:** [@ShahidYousuf](https://github.com/ShahidYousuf)
+
+---
+
+*Last updated: February 2026*
