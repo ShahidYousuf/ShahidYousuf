@@ -8,6 +8,15 @@
 
 Building software solutions since 2018 — from backend systems and distributed architecture to AWS cloud infrastructure and AI-powered products.
 
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidyousuf/)
+[![Portfolio](https://img.shields.io/badge/-17201A?style=flat-square&logo=googlechrome&logoColor=white)](https://shahidyousuf.com)
+[![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShahidYousuf)
+[![X](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ShahidYousuf_)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shahidyousuf.dev)
+[![Facebook](https://img.shields.io/badge/-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/shahidyousuf.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf@gmail.com)
+[![Dev Email](https://img.shields.io/badge/Dev_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf.dev@gmail.com)
+
 ---
 
 ## 🚀 Featured Projects
