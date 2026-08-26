@@ -124,13 +124,4 @@ An AI-powered CLI that investigates production incidents. It correlates evidence
 
 ---
 
-## 💬 Connect
-
-- 💼 **LinkedIn:** [shahidyousuf](https://www.linkedin.com/in/shahidyousuf/)
-- 🌐 **Portfolio:** [shahidyousuf.com](https://shahidyousuf.com)
-- 📧 **Email:** shahidyousuf@gmail.com
-- 🐙 **GitHub:** [@ShahidYousuf](https://github.com/ShahidYousuf)
-
----
-
 *Last updated: February 2026*
