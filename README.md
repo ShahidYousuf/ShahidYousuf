@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shahid Yousuf
+# Shahid Yousuf
 
 ![Senior Software Engineer](https://img.shields.io/badge/Senior_Software_Engineer-17201A?style=for-the-badge)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-17201A?style=for-the-badge)
