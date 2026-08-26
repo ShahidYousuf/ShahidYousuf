@@ -25,7 +25,7 @@ Building software solutions since 2018 — from backend systems and distributed 
 <tr>
 <td width="33%" valign="top">
 
-### 📰 [RajyaPrep](https://rajyaprep.com) ![status](https://img.shields.io/badge/building-fb923c?style=flat-square)
+### 📰 [RajyaPrep](https://rajyaprep.com)
 
 A new daily current-affairs paper for India's competitive exams. 30 cited MCQs, AI-engineered, human-verified. Built for UPSC, KAS, SSC, Banking, Railways, and State PSC aspirants, with native iOS and Android clients alongside the web app.
 
@@ -34,7 +34,7 @@ A new daily current-affairs paper for India's competitive exams. 30 cited MCQs, 
 </td>
 <td width="33%" valign="top">
 
-### 🎙️ [Zuni](https://ai.shahidyousuf.com) ![status](https://img.shields.io/badge/live-22c55e?style=flat-square)
+### 🎙️ [Zuni](https://ai.shahidyousuf.com)
 
 My personal AI voice assistant for iOS. Full-duplex and hands-free, with real tool access to my calendar, email, and reminders. Streams speech-to-text, reasoning, and speech synthesis end to end instead of gluing batch calls together.
 
@@ -43,7 +43,7 @@ My personal AI voice assistant for iOS. Full-duplex and hands-free, with real to
 </td>
 <td width="33%" valign="top">
 
-### 🛰️ [awktrack](https://awktrack.com) ![status](https://img.shields.io/badge/early_stage-fb923c?style=flat-square)
+### 🛰️ [awktrack](https://awktrack.com)
 
 An AI-powered CLI that investigates production incidents. It correlates evidence across Sentry, CloudWatch, Kubernetes, GitHub, and PagerDuty to build a timeline, test hypotheses, and surface the likely root cause instead of just summarizing telemetry.
 
