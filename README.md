@@ -8,8 +8,6 @@
 
 Building software solutions since 2018 — from backend systems and distributed architecture to AWS cloud infrastructure and AI-powered products.
 
-Based in **Srinagar, Kashmir** 🇮🇳 | Passionate about building scalable systems and exploring new technologies
-
 ---
 
 ## 💼 Professional Experience
