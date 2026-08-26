@@ -6,25 +6,24 @@
 ![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Building software solutions since 2018 — from backend systems and distributed architecture to AWS cloud infrastructure and AI-powered products.
+Building backend systems, cloud infrastructure, and AI products since 2018.
 
 ---
 
 ## 💼 Professional Experience
 
 **Senior Software Engineer** at Axelerant
-*Previously worked at Signeasy, TrialX*
+*Previously Signeasy, TrialX*
 
-I focus on building scalable backend systems and distributed applications:
+**Backend & Distributed Systems**
 - 🏗️ Distributed systems architecture and RESTful API design
 - 🧩 Modular monoliths and domain-driven design
-- 📊 System design and architecture for high-traffic applications
-- 🔍 Observability and monitoring solutions
-- ☁️ Multi-account AWS Organizations governance — landing zone rollout across 20+ accounts, zero-incident enrollment
-- 🔐 Cloud security posture management (Security Hub, GuardDuty, IAM Access Analyzer, Inspector) and IAM hygiene at scale
-- 🔄 Cloud migration & decommissioning (GCP → AWS)
+- 🔍 Observability and monitoring at scale
 
-My work involves architecting and implementing backend systems, API design, and working with diverse technology stacks to deliver reliable, scalable solutions.
+**Cloud & AWS Governance**
+- ☁️ Multi-account AWS Organizations governance — 20+ accounts, zero-incident rollout
+- 🔐 Cloud security posture management (Security Hub, GuardDuty, IAM Access Analyzer, Inspector)
+- 🔄 Cloud migration & decommissioning (GCP → AWS)
 
 ---
 
