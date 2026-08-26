@@ -17,6 +17,16 @@ Building software solutions since 2018 — from backend systems and distributed 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf@gmail.com)
 [![Dev Email](https://img.shields.io/badge/Dev_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf.dev@gmail.com)
 
+### 🎯 Core Competencies
+
+- 🏗️ **Backend Engineering:** RESTful APIs, event-driven architectures, microservices and modular monoliths — production systems at Axelerant, RajyaPrep, and Zuni
+- 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
+- 🔍 **Observability:** OpenTelemetry, distributed tracing, structured logging, metrics collection — production monitoring across FastAPI and Spring Boot services
+- 🌐 **Distributed Systems:** Scalability patterns, consistency models, fault tolerance — from multi-service backends to 20+-account AWS Organizations governance
+- 🤖 **AI Applications:** Production agentic systems — a full-duplex AI voice assistant (Zuni), an AI-powered incident-investigation CLI (awktrack), and AI-engineered content pipelines (RajyaPrep)
+- 📐 **Software Architecture:** Hexagonal and clean architecture, SOLID principles, Microservices / Modular Monolith / API Gateway patterns
+- 🎨 **Design Patterns:** Repository, Factory, Strategy, Observer, Decorator, and other common patterns
+
 ---
 
 ## 🚀 Featured Projects
@@ -110,19 +120,6 @@ An AI-powered CLI that investigates production incidents. It correlates evidence
 - **Testing:** pytest (Python), JUnit (Java), Go testing
 - **Code Quality:** SonarQube, Black/Flake8/Ruff (Python), gofmt/golint (Go), Checkstyle (Java)
 - **Version Control:** Git, GitHub
-
----
-
-## 🎯 Core Competencies
-
-- 🏗️ **Backend Engineering:** RESTful APIs, microservices, modular monoliths, event-driven architectures
-- 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
-- 🔍 **Observability:** OpenTelemetry, distributed tracing, structured logging, metrics collection, Grafana Cloud integration
-- 🌐 **Distributed Systems:** Scalability patterns, consistency models, fault tolerance, system design
-- 🤖 **AI Applications:** Building AI-powered backend systems, LLM integration, agentic AI
-- 📐 **Software Architecture:** Hexagonal architecture, clean architecture, design patterns, SOLID principles
-- 🏛️ **Architecture Patterns:** Microservices, Modular Monolith, API Gateway Pattern
-- 🎨 **Design Patterns:** Repository, Factory, Strategy, Observer, Decorator, and other common patterns
 
 ---
 
