@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Shahid Yousuf
 
-**Senior Software Engineer | Backend Architect | Distributed Systems Enthusiast** ☕ *Java Lover*
-
 ![Senior Software Engineer](https://img.shields.io/badge/Senior_Software_Engineer-17201A?style=for-the-badge)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-17201A?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
