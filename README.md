@@ -10,23 +10,6 @@ Building software solutions since 2018 — from backend systems and distributed 
 
 ---
 
-## 💼 Professional Experience
-
-**Senior Software Engineer** at Axelerant
-*Previously Signeasy, TrialX*
-
-**Backend & Distributed Systems**
-- 🏗️ Distributed systems architecture and RESTful API design
-- 🧩 Modular monoliths and domain-driven design
-- 🔍 Observability and monitoring at scale
-
-**Cloud & AWS Governance**
-- ☁️ Multi-account AWS Organizations governance — 20+ accounts, zero-incident rollout
-- 🔐 Cloud security posture management (Security Hub, GuardDuty, IAM Access Analyzer, Inspector)
-- 🔄 Cloud migration & decommissioning (GCP → AWS)
-
----
-
 ## 🚀 Featured Projects
 
 <table>
