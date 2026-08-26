@@ -6,7 +6,7 @@
 ![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Building backend systems, cloud infrastructure, and AI products since 2018.
+Building software solutions since 2018 — from backend systems and distributed architecture to AWS cloud infrastructure and AI-powered products.
 
 ---
 
