@@ -26,19 +26,6 @@ Building production-grade backend systems and distributed applications — from 
 
 <br>
 
-## 💼 Experience
-
-<table>
-<tr><td><b>Senior Software Engineer</b></td><td>Axelerant</td><td align="right">May 2024 – Present</td></tr>
-<tr><td>Senior Software Engineer</td><td>Signeasy</td><td align="right">Feb 2022 – Apr 2024</td></tr>
-<tr><td>Software Engineer</td><td>Applied Informatics / TrialX</td><td align="right">Aug 2018 – Feb 2022</td></tr>
-<tr><td>Founder / Software Developer</td><td>Queboid Technologies</td><td align="right">Jan 2016 – Jul 2018</td></tr>
-</table>
-
-Architecting and implementing backend systems, API design, and multi-account AWS governance across diverse technology stacks — from modular monoliths to distributed cloud infrastructure.
-
-<br>
-
 ## 🚀 Featured Projects
 
 <table>
@@ -84,88 +71,84 @@ An AI-powered CLI that investigates production incidents. It correlates evidence
 
 <br>
 
-## 🎯 Focus Areas
+## 🏢 Industries
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🌐 Distributed Systems
+![Ed Tech](https://img.shields.io/badge/Ed_Tech-17201A?style=flat-square)
+![Healthcare & Clinical Trials](https://img.shields.io/badge/Healthcare_%26_Clinical_Trials-17201A?style=flat-square)
+![E-Signing & Contract Workflow](https://img.shields.io/badge/E--Signing_%26_Contract_Workflow-17201A?style=flat-square)
+![Online Gaming](https://img.shields.io/badge/Online_Gaming-17201A?style=flat-square)
+![AWS & Cyber Security](https://img.shields.io/badge/AWS_%26_Cyber_Security-c4622c?style=flat-square)
 
-- Modular monoliths & domain-driven design (bounded contexts, aggregate design)
-- RESTful & event-driven API design
-- Scalability patterns, consistency models, fault tolerance
-- Hexagonal / clean architecture, SOLID principles
-- Repository, Factory, Strategy, Observer, Decorator patterns
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ AWS Cloud & Governance
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-- Multi-account AWS Organizations governance: landing zone rollout across 20+ accounts, zero-incident enrollment
-- Service Control Policies & Resource Control Policies at org scale
-- Cloud security posture management — Security Hub, GuardDuty, IAM Access Analyzer, Inspector
-- IAM hygiene & access review at scale (500+ finding triage, least-privilege remediation)
-- Cloud migration & decommissioning (GCP → AWS)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ DevOps & Observability
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-- CI/CD pipelines (GitHub Actions)
-- Infrastructure as Code (Terraform)
-- OpenTelemetry, distributed tracing, structured logging
-- Grafana Cloud, Prometheus, SigNoz, Sentry
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & Agentic Systems
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-- LLM integration & agentic tool-calling systems
-- Production AI voice assistants — see Zuni above
-- AI-powered developer tooling — see awktrack above
-- Prompt engineering, context and memory design
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 ## 🧰 Core Stack
 
-**Languages & Frameworks**
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-<br>
-FastAPI · Django · Flask · Gin · Fiber · Spring Boot 4 · Dropwizard · Micronaut · Java 25 (Virtual Threads)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-**Data**
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+<br>
+Material 3 · Hilt
+
+**Backend Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<br>
+Gin · Fiber · Dropwizard · Micronaut · Java 25 (Virtual Threads)
+
+**Databases & Messaging**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 <br>
-Kafka · AWS SQS/SNS
+AWS SQS · AWS SNS
 
-**Quality & Tooling**
-pytest (Python) · JUnit (Java) · Go testing · SonarQube · Black/Flake8/Ruff · gofmt/golint · Checkstyle · JPA · Maven/Gradle · Mockito · Lombok
+**Cloud, DevOps & Security**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<br>
+AWS Organizations · IAM · Security Hub · GuardDuty · IAM Access Analyzer · Inspector · ECS · EKS
+
+**AI**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+**Observability**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+<br>
+SigNoz
+
+**Testing, Quality & Build**
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+<br>
+pytest · Go testing · SonarQube · Black/Flake8/Ruff · gofmt/golint · Checkstyle · JPA · Mockito · Lombok
 
 <br>
 
