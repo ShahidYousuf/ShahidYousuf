@@ -126,17 +126,6 @@ An AI-powered CLI that investigates production incidents. It correlates evidence
 
 ---
 
-## 🌱 Current Focus
-
-- 🌐 **Distributed Systems:** Scalability patterns, consistency models, event-driven architectures, system design
-- 🔍 **Observability:** Production-ready observability solutions with OpenTelemetry, distributed tracing, and comprehensive metrics collection
-- 🧩 **Modular Monoliths:** Designing and implementing modular monolith architectures
-- 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
-- 🤖 **AI Applications:** Building AI-powered backend systems, LLM integration, and agentic AI applications
-- 📚 **Continuous Learning:** Staying current with emerging patterns, technologies, and best practices through reading, building, and problem-solving
-
----
-
 ## 💬 Connect
 
 - 💼 **LinkedIn:** [shahidyousuf](https://www.linkedin.com/in/shahidyousuf/)
