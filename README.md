@@ -1,7 +1,7 @@
 # Shahid Yousuf
 
-![Senior Software Engineer](https://img.shields.io/badge/Senior_Software_Engineer-17201A?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-17201A?style=for-the-badge)
+![Senior Software Engineer](https://img.shields.io/badge/Senior_Software_Engineer-16A34A?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-7C3AED?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
