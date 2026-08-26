@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | Backend Architect | Distributed Systems Enthusiast** ☕ *Java Lover*
 
-I'm a Senior Software Engineer with experience building production-grade backend systems and distributed applications. I specialize in modular monoliths, distributed systems architecture, observability solutions, and domain-driven design, with a strong focus on scalability, performance, and maintainability.
+Building software solutions since 2018. 
 
 Based in **Srinagar, Kashmir** 🇮🇳 | Passionate about building scalable systems and exploring new technologies
 
