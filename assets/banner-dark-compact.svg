@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="330" viewBox="0 0 640 330" role="img" aria-label="Shahid Yousuf, Senior Software Engineer">
+  <defs>
+    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1E293B" stroke-width="1"/></pattern>
+    <radialGradient id="r" cx="85%" cy="10%" r="60%"><stop offset="0" stop-color="#134E4A" stop-opacity="0.9"/><stop offset="1" stop-color="#0B1120" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="640" height="330" rx="20" fill="#0B1120"/>
+  <rect width="640" height="330" rx="20" fill="url(#g)" opacity="0.7"/>
+  <rect width="640" height="330" rx="20" fill="url(#r)"/>
+  <text x="40" y="100" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-2" fill="#F8FAFC"><tspan fill="#2DD4BF" font-weight="500">&lt;</tspan>ShahidYousuf<tspan fill="#2DD4BF" font-weight="500" dx="12">/&gt;</tspan></text>
+  <text x="42" y="152" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#94A3B8">Senior Software Engineer building secure,</text>
+  <text x="42" y="186" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#94A3B8">scalable web applications, AI solutions</text>
+  <text x="42" y="220" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#94A3B8">and cloud infrastructure for businesses</text>
+  <text x="42" y="254" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#94A3B8">worldwide.</text>
+  <circle cx="418" cy="44" r="6" fill="#2DD4BF"/><text x="600" y="50" text-anchor="end" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#94A3B8">shahidyousuf.com</text>
+</svg>

@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-compact.svg">
+  <source media="(max-width: 600px)" srcset="assets/banner-light-compact.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img alt="Shahid Yousuf, Senior Software Engineer building secure, scalable web applications, AI solutions and cloud infrastructure for businesses worldwide." src="assets/banner-light.svg" width="100%">
 </picture>
