@@ -29,40 +29,57 @@ Outside client work I build my own products, and I work directly with businesses
 
 ## Career
 
-| Years | Company | Role | Highlights |
-|---|---|---|---|
-| 2024 to now | Axelerant | Senior Software Engineer | Production GCP to AWS migration; governance for dozens of AWS accounts; bet placement rebuilt in Go, 50%+ faster with 60%+ less memory |
-| 2022 to 2024 | Signeasy | Senior Software Engineer | Core e-signature workflows; signing services 30%+ faster through API and caching work |
-| 2018 to 2022 | TrialX | Software Engineer | Clinical trial volunteer registry, patient matching and automated patient communication |
-| 2016 to 2018 | Queboid Tech | Founding Member and Software Developer | Management software for schools and colleges across Jammu and Kashmir |
+**Axelerant**, Senior Software Engineer, 2024 to now<br>
+Production GCP to AWS migration; governance for dozens of AWS accounts; bet placement rebuilt in Go, 50%+ faster with 60%+ less memory.
 
-More case studies, including AWS governance, a GCP to AWS migration, RajyaPrep and Zuni, are on [shahidyousuf.com/work](https://shahidyousuf.com/work/).
+**Signeasy**, Senior Software Engineer, 2022 to 2024<br>
+Core e-signature workflows; signing services 30%+ faster through API and caching work.
+
+**TrialX**, Software Engineer, 2018 to 2022<br>
+Clinical trial volunteer registry, patient matching and automated patient communication.
+
+**Queboid Tech**, Founding Member and Software Developer, 2016 to 2018<br>
+Management software for schools and colleges across Jammu and Kashmir.
 
 ## Skills and technologies
 
-![Python](https://img.shields.io/badge/Python-0F766E?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0F766E?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0F766E?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F766E?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0F766E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0F766E?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-0F766E?style=for-the-badge&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F766E?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-0F766E?style=for-the-badge&logo=apachekafka&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0F766E?style=for-the-badge&logo=opentelemetry&logoColor=white)
+<!-- skills:start -->
+**Programming Languages**
 
-| Area | Technologies |
-|---|---|
-| Programming languages | Python, Go, Java, TypeScript, JavaScript, Kotlin, Swift, SQL, Bash |
-| Web frameworks and technologies | Django, FastAPI, Flask, Spring Boot, Micronaut, Dropwizard, Gin, Fiber, Next.js, React, SwiftUI, Tailwind CSS, Bootstrap |
-| Databases and messaging | PostgreSQL, MySQL, SQLite, SQL Server, Redis, Apache Kafka, Amazon SQS, Amazon SNS |
-| Cloud platforms | AWS, Google Cloud, Firebase, DigitalOcean, Amazon EKS, Amazon ECS, AWS Lambda, Amazon S3, Amazon CloudWatch |
-| Cloud governance and security | AWS Organizations, AWS Control Tower, IAM Identity Center, Amazon GuardDuty, AWS Security Hub, AWS Config, Service Control Policies |
-| Tools and infrastructure | Docker, Docker Compose, Kubernetes, Terraform, CloudFormation, Argo CD, GitHub Actions, CI/CD, Maven, Gradle |
-| Testing | pytest, JUnit, Mockito, Go testing |
-| Observability | OpenTelemetry, Prometheus, Grafana, Loki, Datadog, Sentry, SigNoz |
-| Architecture and practices | REST APIs, OpenAPI, Microservices, Modular Monolith, Event-Driven Architecture, WebSockets, Distributed Systems, Domain-Driven Design, Hexagonal Architecture, Clean Architecture |
-| AI | LLM Applications, AI Agents, Retrieval-Augmented Generation, Model Context Protocol, Speech AI |
+<img src="https://img.shields.io/badge/Python-334155?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-334155?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Java-334155?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Kotlin-334155?style=flat-square" alt="Kotlin"> <img src="https://img.shields.io/badge/Swift-334155?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Bash-334155?style=flat-square" alt="Bash">
+
+**Web Frameworks and Technologies**
+
+<img src="https://img.shields.io/badge/Django-334155?style=flat-square" alt="Django"> <img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square" alt="FastAPI"> <img src="https://img.shields.io/badge/Flask-334155?style=flat-square" alt="Flask"> <img src="https://img.shields.io/badge/Spring_Boot-334155?style=flat-square" alt="Spring Boot"> <img src="https://img.shields.io/badge/Micronaut-334155?style=flat-square" alt="Micronaut"> <img src="https://img.shields.io/badge/Dropwizard-334155?style=flat-square" alt="Dropwizard"> <img src="https://img.shields.io/badge/Gin-334155?style=flat-square" alt="Gin"> <img src="https://img.shields.io/badge/Fiber-334155?style=flat-square" alt="Fiber"> <img src="https://img.shields.io/badge/Next.js-334155?style=flat-square" alt="Next.js"> <img src="https://img.shields.io/badge/React-334155?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/SwiftUI-334155?style=flat-square" alt="SwiftUI"> <img src="https://img.shields.io/badge/Tailwind_CSS-334155?style=flat-square" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Bootstrap-334155?style=flat-square" alt="Bootstrap">
+
+**Databases and Messaging**
+
+<img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-334155?style=flat-square" alt="MySQL"> <img src="https://img.shields.io/badge/SQLite-334155?style=flat-square" alt="SQLite"> <img src="https://img.shields.io/badge/SQL_Server-334155?style=flat-square" alt="SQL Server"> <img src="https://img.shields.io/badge/Redis-334155?style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/Apache_Kafka-334155?style=flat-square" alt="Apache Kafka"> <img src="https://img.shields.io/badge/Amazon_SQS-334155?style=flat-square" alt="Amazon SQS"> <img src="https://img.shields.io/badge/Amazon_SNS-334155?style=flat-square" alt="Amazon SNS">
+
+**Cloud Platforms**
+
+<img src="https://img.shields.io/badge/AWS-334155?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Google_Cloud-334155?style=flat-square" alt="Google Cloud"> <img src="https://img.shields.io/badge/Firebase-334155?style=flat-square" alt="Firebase"> <img src="https://img.shields.io/badge/DigitalOcean-334155?style=flat-square" alt="DigitalOcean"> <img src="https://img.shields.io/badge/Amazon_EKS-334155?style=flat-square" alt="Amazon EKS"> <img src="https://img.shields.io/badge/Amazon_ECS-334155?style=flat-square" alt="Amazon ECS"> <img src="https://img.shields.io/badge/AWS_Lambda-334155?style=flat-square" alt="AWS Lambda"> <img src="https://img.shields.io/badge/Amazon_S3-334155?style=flat-square" alt="Amazon S3"> <img src="https://img.shields.io/badge/Amazon_CloudWatch-334155?style=flat-square" alt="Amazon CloudWatch">
+
+**Cloud Governance and Security**
+
+<img src="https://img.shields.io/badge/AWS_Organizations-334155?style=flat-square" alt="AWS Organizations"> <img src="https://img.shields.io/badge/AWS_Control_Tower-334155?style=flat-square" alt="AWS Control Tower"> <img src="https://img.shields.io/badge/IAM_Identity_Center-334155?style=flat-square" alt="IAM Identity Center"> <img src="https://img.shields.io/badge/Amazon_GuardDuty-334155?style=flat-square" alt="Amazon GuardDuty"> <img src="https://img.shields.io/badge/AWS_Security_Hub-334155?style=flat-square" alt="AWS Security Hub"> <img src="https://img.shields.io/badge/AWS_Config-334155?style=flat-square" alt="AWS Config"> <img src="https://img.shields.io/badge/Service_Control_Policies-334155?style=flat-square" alt="Service Control Policies">
+
+**Tools and Infrastructure**
+
+<img src="https://img.shields.io/badge/Docker-334155?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Docker_Compose-334155?style=flat-square" alt="Docker Compose"> <img src="https://img.shields.io/badge/Kubernetes-334155?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-334155?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/CloudFormation-334155?style=flat-square" alt="CloudFormation"> <img src="https://img.shields.io/badge/Argo_CD-334155?style=flat-square" alt="Argo CD"> <img src="https://img.shields.io/badge/GitHub_Actions-334155?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/CI%2FCD-334155?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/Maven-334155?style=flat-square" alt="Maven"> <img src="https://img.shields.io/badge/Gradle-334155?style=flat-square" alt="Gradle"> <img src="https://img.shields.io/badge/pytest-334155?style=flat-square" alt="pytest"> <img src="https://img.shields.io/badge/JUnit-334155?style=flat-square" alt="JUnit">
+
+**Observability**
+
+<img src="https://img.shields.io/badge/OpenTelemetry-334155?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/Prometheus-334155?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-334155?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/Loki-334155?style=flat-square" alt="Loki"> <img src="https://img.shields.io/badge/Datadog-334155?style=flat-square" alt="Datadog"> <img src="https://img.shields.io/badge/Sentry-334155?style=flat-square" alt="Sentry"> <img src="https://img.shields.io/badge/SigNoz-334155?style=flat-square" alt="SigNoz">
+
+**Architecture and Practices**
+
+<img src="https://img.shields.io/badge/REST_APIs-334155?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/OpenAPI-334155?style=flat-square" alt="OpenAPI"> <img src="https://img.shields.io/badge/Microservices-334155?style=flat-square" alt="Microservices"> <img src="https://img.shields.io/badge/Modular_Monolith-334155?style=flat-square" alt="Modular Monolith"> <img src="https://img.shields.io/badge/Event--Driven_Architecture-334155?style=flat-square" alt="Event-Driven Architecture"> <img src="https://img.shields.io/badge/WebSockets-334155?style=flat-square" alt="WebSockets"> <img src="https://img.shields.io/badge/Distributed_Systems-334155?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Domain--Driven_Design-334155?style=flat-square" alt="Domain-Driven Design"> <img src="https://img.shields.io/badge/Hexagonal_Architecture-334155?style=flat-square" alt="Hexagonal Architecture"> <img src="https://img.shields.io/badge/Clean_Architecture-334155?style=flat-square" alt="Clean Architecture">
+
+**AI**
+
+<img src="https://img.shields.io/badge/LLM_Applications-334155?style=flat-square" alt="LLM Applications"> <img src="https://img.shields.io/badge/AI_Agents-334155?style=flat-square" alt="AI Agents"> <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-334155?style=flat-square" alt="Retrieval-Augmented Generation"> <img src="https://img.shields.io/badge/Model_Context_Protocol-334155?style=flat-square" alt="Model Context Protocol"> <img src="https://img.shields.io/badge/Speech_AI-334155?style=flat-square" alt="Speech AI">
+<!-- skills:end -->
 
 ## Education and certifications
 
