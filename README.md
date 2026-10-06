@@ -6,31 +6,36 @@
 ![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Building software solutions since 2018 — from backend systems and distributed architecture to AWS cloud infrastructure and AI-powered products.
+Senior Software Engineer building secure, scalable web applications, AI solutions and cloud infrastructure for businesses worldwide.
 
+🌐 **[shahidyousuf.com](https://shahidyousuf.com)**: my blog, case studies, and a free intro call if you'd like to work together.
+
+[![Website](https://img.shields.io/badge/shahidyousuf.com-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](https://shahidyousuf.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidyousuf/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-17201A?style=flat-square&logo=googlechrome&logoColor=white)](https://shahidyousuf.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShahidYousuf)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ShahidYousuf_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shahidyousuf.dev)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/shahidyousuf.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf@gmail.com)
 [![Dev Email](https://img.shields.io/badge/Dev_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahidyousuf.dev@gmail.com)
 
-### 🎯 Core Competencies
+## About me
 
-- 🏗️ **Backend Engineering:** RESTful APIs, event-driven architectures, microservices and modular monoliths — production systems at Axelerant, RajyaPrep, and Zuni
-- 🎯 **Domain-Driven Design:** Strategic and tactical DDD patterns, bounded contexts, aggregate design
-- 🔍 **Observability:** OpenTelemetry, distributed tracing, structured logging, metrics collection — production monitoring across FastAPI and Spring Boot services
-- 🌐 **Distributed Systems:** Scalability patterns, consistency models, fault tolerance, system design
-- ☁️ **AWS Cloud & Governance:** Multi-account AWS Organizations governance, Control Tower, Service Control Policies & Resource Control Policies, cloud security posture management (Security Hub, GuardDuty, IAM Access Analyzer). 
-- 🤖 **AI Applications:** Production agentic systems — a full-duplex AI voice assistant (Zuni), an AI-powered incident-investigation CLI (awktrack), and AI-engineered content pipelines (RajyaPrep)
-- 📐 **Software Architecture:** Hexagonal and clean architecture, SOLID principles, Microservices / Modular Monolith / API Gateway patterns
-- 🎨 **Design Patterns:** Repository, Factory, Strategy, Observer, Decorator, and other common patterns
+I'm a Senior Software Engineer based in India with 10+ years of experience designing, building and operating production systems. My core strength is backend engineering: APIs, distributed systems, data pipelines and the cloud infrastructure they run on, delivered with security and observability built in from the start.
 
----
+I currently work at Axelerant, delivering for clients in cybersecurity, digital media and online gaming. Recent work includes leading a production platform migration from GCP to AWS, bringing dozens of AWS accounts under consistent governance and security guardrails, building a two-way sync between a client portal and Jira, and re-engineering a real-money betting engine in Go for higher throughput and lower memory use.
 
-## 🚀 Featured Projects
+Outside client work I build my own products, and I work directly with businesses as a freelance engineer on web applications, AI solutions, cloud infrastructure and security. For engineers preparing for their next role, I offer one-to-one [career mentoring and mock interviews](https://shahidyousuf.com/book/).
+
+## Career
+
+| Years | Company | Role | Highlights |
+|---|---|---|---|
+| 2024 to now | Axelerant | Senior Software Engineer | Production GCP to AWS migration; governance for dozens of AWS accounts; bet placement rebuilt in Go, 50%+ faster with 60%+ less memory |
+| 2022 to 2024 | Signeasy | Senior Software Engineer | Core e-signature workflows; signing services 30%+ faster through API and caching work |
+| 2018 to 2022 | TrialX | Software Engineer | Clinical trial volunteer registry, patient matching and automated patient communication |
+| 2016 to 2018 | Queboid Tech | Founding Member and Software Developer | Management software for schools and colleges across Jammu and Kashmir |
+
+## Featured projects
 
 <table>
 <tr>
@@ -38,90 +43,64 @@ Building software solutions since 2018 — from backend systems and distributed 
 
 ### 📰 [RajyaPrep](https://rajyaprep.com)
 
-A new daily current-affairs paper for India's competitive exams. 30 cited MCQs, AI-engineered, human-verified. Built for UPSC, KAS, SSC, Banking, Railways, and State PSC aspirants, with native iOS and Android clients alongside the web app.
+A paid daily practice platform for UPSC, State PSC, SSC, banking, railways and defence aspirants: a 30-question paper every day, subject tests across eleven subjects, and every option explained with the source of each question named. Designed, built and run solo.
 
-<sub>🟢 Next.js &nbsp; 🔵 FastAPI &nbsp; 🟠 Swift &nbsp; 🟣 Kotlin</sub>
+<sub>Full-stack web application, AI-assisted content, online payments</sub>
 
 </td>
 <td width="33%" valign="top">
 
-### 🎙️ [Zuni](https://ai.shahidyousuf.com)
+### 🎙️ [Zuni](https://shahidyousuf.com/work/zuni-voice-assistant/)
 
-My personal AI voice assistant for iOS. Full-duplex and hands-free, with real tool access to my calendar, email, and reminders. Streams speech-to-text, reasoning, and speech synthesis end to end instead of gluing batch calls together.
+A personal real-time voice AI assistant: a native iPhone app with full-duplex, interruptible conversation and a backend that lets the AI act on email, calendar, files and code through more than twenty-five tools.
 
-<sub>🟠 Swift &nbsp; 🔵 Python &nbsp; 🟢 FastAPI</sub>
+<sub>Swift, SwiftUI, Python, streaming speech</sub>
 
 </td>
 <td width="33%" valign="top">
 
 ### 🛰️ [awktrack](https://awktrack.com)
 
-An AI-powered CLI that investigates production incidents. It correlates evidence across Sentry, CloudWatch, Kubernetes, GitHub, and PagerDuty to build a timeline, test hypotheses, and surface the likely root cause instead of just summarizing telemetry.
+An AI-powered CLI that investigates production incidents. It correlates evidence across Sentry, CloudWatch, Kubernetes, GitHub and PagerDuty to build a timeline, test hypotheses and surface the likely root cause instead of just summarizing telemetry.
 
-<sub>🔵 Python &nbsp; ⚫ Typer CLI</sub>
+<sub>Python, Typer CLI</sub>
 
 </td>
 </tr>
 </table>
 
----
+More case studies, including AWS governance and a GCP to AWS migration, are on [shahidyousuf.com/work](https://shahidyousuf.com/work/).
 
-## 🛠️ Technical Stack
+## Skills and technologies
 
-### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ☕
+| Area | Technologies |
+|---|---|
+| Programming languages | Python, Go, Java, TypeScript, JavaScript, Kotlin, Swift, SQL, Bash |
+| Web frameworks and technologies | Django, FastAPI, Flask, Spring Boot, Micronaut, Dropwizard, Gin, Fiber, Next.js, React, SwiftUI, Tailwind CSS, Bootstrap |
+| Databases and messaging | PostgreSQL, MySQL, SQLite, SQL Server, Redis, Apache Kafka, Amazon SQS, Amazon SNS |
+| Cloud platforms | AWS, Google Cloud, Firebase, DigitalOcean, Amazon EKS, Amazon ECS, AWS Lambda, Amazon S3, Amazon CloudWatch |
+| Cloud governance and security | AWS Organizations, AWS Control Tower, IAM Identity Center, Amazon GuardDuty, AWS Security Hub, AWS Config, Service Control Policies |
+| Tools and infrastructure | Docker, Docker Compose, Kubernetes, Terraform, CloudFormation, Argo CD, GitHub Actions, CI/CD, Maven, Gradle |
+| Testing | pytest, JUnit, Mockito, Go testing |
+| Observability | OpenTelemetry, Prometheus, Grafana, Loki, Datadog, Sentry, SigNoz |
+| Architecture and practices | REST APIs, OpenAPI, Microservices, Modular Monolith, Event-Driven Architecture, WebSockets, Distributed Systems, Domain-Driven Design, Hexagonal Architecture, Clean Architecture |
+| AI | LLM Applications, AI Agents, Retrieval-Augmented Generation, Model Context Protocol, Speech AI |
 
-- **Python:** FastAPI, Django, Flask, data processing, AI/ML applications
-- **Go:** Gin, Fiber, concurrent programming, microservices
-- **Java:** Spring Boot 4, Dropwizard, Micronaut, Java 25 (Virtual Threads) | JPA, Maven/Gradle, JUnit, Mockito, Lombok
+## Education and certifications
 
-### Databases & Storage
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-- **Relational:** PostgreSQL, MySQL, SQLite
-- **Caching:** Redis
-- **Message Queues:** Kafka, Redis Pub/Sub, AWS SQS/SNS
-
-### Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-- **Cloud Platform:** AWS (ECS, EKS)
-- **Containerization:** Docker, Docker Compose, Kubernetes
-- **Infrastructure as Code:** Terraform
-
-### Observability & Monitoring
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
-- **Monitoring:** Grafana, Prometheus, SigNoz, Sentry
-- **Tracing:** OpenTelemetry, distributed tracing
-- **Logging:** Structured logging, log aggregation
-
-### Development Tools
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **CI/CD:** GitHub Actions
-- **API Documentation:** OpenAPI/Swagger, REST APIs
-- **Testing:** pytest (Python), JUnit (Java), Go testing
-- **Code Quality:** SonarQube, Black/Flake8/Ruff (Python), gofmt/golint (Go), Checkstyle (Java)
-- **Version Control:** Git, GitHub
+B.Tech, Electronics and Communication Engineering, University of Kashmir (2014) · Certified Ethical Hacker (CEH v8), EC-Council (2015) · CCNA, Cisco (2015)
 
 ---
 
-*Last updated: February 2026*
+<sub>Kept in sync with [shahidyousuf.com/about](https://shahidyousuf.com/about/). Last updated October 2026.</sub>
