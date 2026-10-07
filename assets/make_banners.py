@@ -30,7 +30,7 @@ def svg(theme: str, compact: bool) -> str:
     x = 40 if compact else 64
     domain = (
         f'<circle cx="{w - 222}" cy="44" r="6" fill="{t["teal"]}"/>'
-        f'<text x="{w - 40}" y="50" text-anchor="end" font-family="{FONT}" font-size="18" fill="{t["sub"]}">shahidyousuf.com</text>'
+        f'<text x="{w - 40}" y="50" text-anchor="end" font-family="{FONT}" font-size="18" fill="{t["sub"]}">shahidyousuf.dev</text>'
     )
     if not compact:
         tagline = tagline.replace('x="42"', 'x="66"')

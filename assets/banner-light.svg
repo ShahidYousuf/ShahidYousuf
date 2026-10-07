@@ -9,5 +9,5 @@
   <text x="64" y="128" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#0F172A"><tspan fill="#0F766E" font-weight="500">&lt;</tspan>ShahidYousuf<tspan fill="#0F766E" font-weight="500" dx="12">/&gt;</tspan></text>
   <text x="66" y="182" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#475569">Senior Software Engineer building secure, scalable web applications,</text>
   <text x="66" y="214" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#475569">AI solutions and cloud infrastructure for businesses worldwide.</text>
-  <circle cx="978" cy="44" r="6" fill="#0F766E"/><text x="1160" y="50" text-anchor="end" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#475569">shahidyousuf.com</text>
+  <circle cx="978" cy="44" r="6" fill="#0F766E"/><text x="1160" y="50" text-anchor="end" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#475569">shahidyousuf.dev</text>
 </svg>

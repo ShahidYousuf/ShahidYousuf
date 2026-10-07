@@ -11,9 +11,9 @@
 ![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-🌐 **[shahidyousuf.com](https://shahidyousuf.com)**: my blog, case studies, and a free intro call if you'd like to work together.
+🌐 **[shahidyousuf.dev](https://shahidyousuf.dev)**: my blog, case studies, and a free intro call if you'd like to work together. shahidyousuf.com and shahidyousuf.in redirect here.
 
-[![Website](https://img.shields.io/badge/shahidyousuf.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shahidyousuf.com)
+[![Website](https://img.shields.io/badge/shahidyousuf.dev-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shahidyousuf.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidyousuf/)
 [![X](https://img.shields.io/badge/X-334155?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShahidYousuf_)
 [![Instagram](https://img.shields.io/badge/Instagram-334155?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shahidyousuf.dev)
@@ -27,7 +27,7 @@ I'm a Senior Software Engineer based in India with 10+ years of experience desig
 
 I currently work at Axelerant, delivering for clients in cybersecurity, digital media and online gaming. Recent work includes leading a production platform migration from GCP to AWS, bringing dozens of AWS accounts under consistent governance and security guardrails, building a two-way sync between a client portal and Jira, and re-engineering a real-money betting engine in Go for higher throughput and lower memory use.
 
-Outside client work I build my own products, and I work directly with businesses as a freelance engineer on web applications, AI solutions, cloud infrastructure and security. For engineers preparing for their next role, I offer one-to-one [career mentoring and mock interviews](https://shahidyousuf.com/book/).
+Outside client work I build my own products, and I work directly with businesses as a freelance engineer on web applications, AI solutions, cloud infrastructure and security. For engineers preparing for their next role, I offer one-to-one [career mentoring and mock interviews](https://shahidyousuf.dev/book/).
 
 ## Career
 
@@ -89,4 +89,4 @@ B.Tech, Electronics and Communication Engineering, University of Kashmir (2014) 
 
 ---
 
-<sub>Kept in sync with [shahidyousuf.com/about](https://shahidyousuf.com/about/). Last updated October 2026.</sub>
+<sub>Kept in sync with [shahidyousuf.dev/about](https://shahidyousuf.dev/about/). Last updated October 2026.</sub>
